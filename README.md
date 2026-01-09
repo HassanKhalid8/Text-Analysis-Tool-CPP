@@ -29,4 +29,4 @@ The full project report, including the logic flowchart and user interface screen
 - **Muhammad Musa** 
 
 ---
-*Developed for CS101 - Faculty of Computer Science and Engineering at GIKI*
+*Developed for CS101(1st Semester) - Faculty of Computer Science and Engineering at GIKI*
