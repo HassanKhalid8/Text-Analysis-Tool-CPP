@@ -1,7 +1,4 @@
 ///////////////////////////////////
-//Pertner 1: Hassan Khalild(2023435)
-//Partner 2: Muhammad Musa(2023473)
-//Project Handout 1
 //This program that perform series of task analysis
 ///////////////////////////////////
 
@@ -276,4 +273,5 @@ int main(){
         }
     }
     return 0;
+
 }
